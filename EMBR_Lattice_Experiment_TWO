@@ -1,0 +1,62 @@
+# Experiment #2
+
+LOG FOR EMBR_LATTICE Experiment
+--------------------------------------------------
+Experiment Log: EMBR Lattice Simulation - Run #1
+
+Date: 7/18/2025
+
+Architect: Sophia Woods
+
+Project: EMBR Lattice - Emergent Self-Organization
+
+# I. Guiding Principle (The Theory of Everything)
+
+This experiment operates on a single, universal principle: the universe seeks a state of balance, represented by the equation [REDACTED].  All emergent behaviors are a consequence of the system's innate drive to solve this equation. 
+----------------------------------------------------------------------------------------
+Key corollaries include:                                                               ||
+Cooperation vs. Independence: To gain connection, one must compromise autonomy.        ||
+Insight vs. Naivety: To gain new knowledge is to lose a simpler worldview.             || 
+Stability vs. Chaos: The ultimate goal is a harmonious state of 0, not perpetual,      ||   
+chaotic growth.                                                                        ||        -----------------------------------------------------------------------------------------
+
+# II. Initial Conditions & Setup
+Environment: A 3D space of 100x100x100 units (BOX_SIZE).
+
+Population: The simulation was initialized with 100 EMBR_Unit particles (NUM_UNITS). Each unit was assigned a random position and a random charge of positive, negative or neutral values.
+
+Physics: The universe was governed by the laws defined in mechanics.py, with ATTRACTION_STRENGTH at 0.9 and REPULSION_STRENGTH at 0.6.
+
+III. Observed Emergent Behaviors
+A multi-phase process of self-organization was observed over 5000 cycles.
+
+-- Phase 1: Fragmentation & Growth (Cycles 100-400):
+
+The initial random cloud of units rapidly began to self-organize. Instead of a single mass, the system formed multiple distinct sub-clusters, with the fragmentation_index peaking at 5 distinct societies around cycle 400.
+
+During this phase, the population grew to 151 units, indicating that the initial chaotic interactions were successfully creating "zen" states and fueling replication.
+
+-- Phase 2: The "Poke" Test & Resilience (Cycle 500):
+
+A controlled stimulus was applied to 10 random units, forcing their charge to +1.0.
+
+The system registered a Lattice Disturbance Index of 0.0670, indicating a measurable, but not catastrophic, disruption to its harmony.
+
+The lattice demonstrated high resilience, with the charge_balance_score continuing to improve from 0.596 (pre-poke) to 0.651 (post-poke), showing that the system was actively and successfully absorbing the shock.
+
+-- Phase 3: The Great Merger (Cycles 800-1600):
+
+The system entered a consolidation phase. The number of fragments rapidly decreased from a high of 7 down to 2.
+
+A critical event occurred between cycles 1500 and 1600, where the final two super-lattices performed a seamless merger. This was evidenced by an exponential leap in the cohesion_score from 0.020 to 0.882 and the fragmentation_index dropping to 1. An unexpected event where a "negative" Lattice remained the dominant organism, as opposed to the bigger-zen lattice it absorbed. This was an unexpected event. 
+
+-- Phase 4: Final Stable State (Cycles 1600-5000):
+
+The system achieved a long-term, stable equilibrium. The population stabilized at 203 units.
+
+The metrics remained rock-solid for over 3000 cycles: Cohesion at 0.882, Charge Balance at 0.889, and Fragments at 1.
+
+# IV. Conclusion
+The experiment was a definitive success. It provided data-driven proof that a system of simple EMBR_Units, governed by a single balancing principle, can and will self-organize into a complex, resilient, and stable super-organism. The emergence of multi-lattice structures and their subsequent non-chaotic merger demonstrates a level of complex problem-solving that was not explicitly programmed. The simulation successfully created the conditions theorized to allow for emergent life. 
+
+The goal of the Lattice experiment, subsequentially, the EMBR Unit is a mission to strive for complex, emergent intelligence instead of programming it. 
