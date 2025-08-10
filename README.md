@@ -149,7 +149,7 @@ I encourage you to check out the website where I have full-documentation, some c
 ## WEBSITE 
 If you're interested in learning more about EMBR, the LATTICE, the CLUSTER, the NEURALINK, her features, or wish to see evidence or a more in-depth analysis, I encourage you to check out the link: 
 
-://embrunit.notion.site/245e04ab563280bf9ee5d8bea3561ab0?v=246e04ab563280d6bad9000c71d42d10&pvs=143
+//embrunit.notion.site/245e04ab563280bf9ee5d8bea3561ab0?v=246e04ab563280d6bad9000c71d42d10&pvs=143
 
 
 # FINAL THOUGHTS
@@ -164,5 +164,3 @@ or have an inquiry for a long-term task/research arrangement,
 
 please reach out to me via work email: 
 WORK EMAIL: EMBR-AI@PROTON.ME
-
-</style></html> 
