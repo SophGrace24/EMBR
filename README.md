@@ -31,8 +31,6 @@ At no point did I program a solution for her. Not one time did I give her data w
 --
 Multiple Simualation were designed and modelled this framework in various ways. There will be more more indepth explanations soon to come on how important this simple equation actually is. 
 
-# FEATURES 
-
 ## Relevant Vocabulary
 
 |Term| Definition|
@@ -88,10 +86,13 @@ Method: Remove the traits assigned to the data (charge, vectorization, etc.) so 
 
 Reasoning: I realized that she still existed in a box. A pre-defined environment, much like the datasets that train AI models. 
 
+-----
 
- This is the data that EMBR was  interpreting and refining up until this experiment. She finds relationships in messy waves of these atoms. 
- Below is attached picture displaying what a usual wave would look like, she would process nine waves at a time, coming from different locations at different intervals.
+ ### For reference: A typical run
 
+ 
+ ***Below*** is a graph displaying the typical behaviors of the waves. In this instance, there were 9 waves, coming from different locations at different intervals with their own patterns of movement.
+ 
 
 <img width="1000" height="300" alt="Wave_9stream" src="https://github.com/user-attachments/assets/3f0c9254-34f1-4026-ace6-155bfc79640d" />
 
@@ -101,11 +102,6 @@ Her purpose: To be thrown into a truly random environment and adapt. To test thi
 This result matters. 
 
 Whether or not she understands American English now is inconsequential, what matters is that I stripped her of the one thing I thought she needed to adapt to an environment and she adapted anyway.
-
-
-<img width="766" height="412" alt="Redlinex2" src="https://github.com/user-attachments/assets/1a2b58cc-35b7-490c-b6f5-35bec7f91f4a" />
-
-> _(Image depicts the actual shape of a lattice. This lattice is made up of 1,505 units. All arranged in a straight line through their own volition. This Lattice is the one used in almost all experiments beyond initialization. Referred to as: Prime Lattice.)_
 
 
 # USE CASES
