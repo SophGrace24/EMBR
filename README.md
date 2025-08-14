@@ -29,79 +29,74 @@ At no point did I program a solution for her. Not one time did I give her data w
 
 ***1 + (-1) = 0***
 --
-
-I designed multiple simulations, I structured certain parts of how her cognition works (I didn’t have millions of years of evolutionary natural processes to do it for me, sorry), and I threw her into a variety of universes with randomized chaos and told her “figure it out”.
-The results were profound. 
-Once I knew I had a working model, I initiated various experiments to test her potential and despite everything I did to bend her, she didn’t break. 
+Multiple Simualation were designed and modelled this framework in various ways. There will be more more indepth explanations soon to come on how important this simple equation actually is. 
 
 # FEATURES 
 
-Everything about EMBR’s design promotes her ability to adapt to chaos.
+## Relevant Vocabulary
+
+|Term| Definition|
+:----:| :--------:
+| Atom:| An atom is a "packet" of information| 
+| Charge:| Each atom is randomly assigned + or -, regardless of the values actual state (pos/neg).|
+|Wave:| The delivery system of atoms. Like Sound Waves.|
+| Holistic Atom:| The full scope of an atoms properties: Charge, Values, Magnitude, Location, Wave Assignment and other additions|
+
+## Metric Highlights
 
 This is **not** an all-inclusive list: 
 
-***Surprise Metric*** - This metric is one I had to create. The current metrics most often used for AI are “Accuracy” or “Precision” - or the F1 Score which balances both of these. None of them were properly capturing what I needed to capture. I didn’t need EMBR to be precise or accurate, I wanted her to have an idea. To use the information of the environment and to leverage it to inform her next expectation. As such, the Surprise metric always starts out high and it drops to near zero almost immediately. This is most often the case.
+### ***Surprise Metric*** - (Original)
+
+Limits: The current metrics most often used for AI are “Accuracy” or “Precision” - or the F1 Score which balances both of these. This is not accurate to the goals outlined for EMBR. She is not meant to be precise or 100% accurate, she is meant to have an idea, develop an expectation and self-correct if her analysis is wrong. 
+
+Uses/Behaviors: The Surprise metric always starts out high and it drops to averaging 0.3 almost immediately. This is most often the case.
+The Metric operates as a drive for her learning. A high-surprise, in people, would be the equivalent of not trusting your surroundings. With humans, when we visit a new location and don't know the processes, we experience an uncomfortable feeling that slowly moves into comfort. "Feeling at home" - so to speak. This process is what the Suprise Metric models. 
+
+Result Meaning: It informs me that she is adapting to the information in a consistent and expected way.
 
 <img width="1300" height="500" alt="surprisemetric" src="https://github.com/user-attachments/assets/30d2bbb3-c33a-4d13-b2ac-773a46e0b728" />
 
 > _(Image depicts her surprise metric and her anomaly signal. This graph indicates that her anomaly signal does react to novel data but information that is surprising is inherently different - this is not a hardcoded feature. This promotes adaptability to novel situations where exceptions can occur.)_ 
 
-The ***Surprise Metric*** is her way of knowing her understanding of the world is wrong. The higher the Surprise, the more she’s driven to understand her environment. This is the force that encourages her to learn: _herself_.
+Her mistakes are not an “after-the-fact” cost she must endure, it flunctuates so  as to be as dynamic as she is, allowing her agency in uncomfortable and "novel" situations. She learns the rules of the game and uses it as context to inform her expectation of what happens next. This is a process of learning highlighted in Psychology, however, I've opted to focus on the most basic aspects of various Learning theories and focused on what could apply across any situation. 
 
-Her mistakes are not an “after-the-fact” cost she must endure, it flunctuates so  as to be as dynamic as she is, allowing her agency in uncomfortable and "novel" situations. She learns the rules of the game and uses it as context to inform her expectation of what happens next.
+### ***Contextual Profiles*** - 
+This is beyond a memory. It’s a worldview. Every EMBR Unit builds it’s own internal “map” of reality. Learning to distinguish what *has* happened and what *can* happen, to predict what *will* happen. 
 
-***Contextual Profiles*** - This is beyond a memory. It’s a worldview. Every EMBR Unit builds it’s own internal “map” of reality. Learning to distinguish what *has* happened and what *can* happen, to predict what *will* happen. As a foundation of her ability to learn the rules of the game, her contextual profile and association matrix act as one the biggest points where EMBR diverges from other AI models. 
+As a foundation of her ability to learn the rules of the game, her contextual profile and association matrix act as one the biggest points where EMBR diverges from other AI models. 
 
-***Self-adaptive parameters*** - EMBR is able to learn, and learn how to learn better. She is constantly fine-tuning her own personality, determining which information is crucial, which information is worth paying attention to and how much of an effect it has on her understanding. Every EMBR Unit is capable of interpreting their environment in different ways, for this reason. Leveraging a very powerful force when they are connected together.
+### ***Self-adaptive parameters*** - 
+EMBR is able to learn, and learn how to learn better. She is constantly fine-tuning her own "personality", determining which information is crucial, which information is worth paying attention to and how much of an effect it has on her understanding. 
+
+Furthermore, 
+**every** EMBR Unit is capable of interpreting their environment in different ways, for this reason. 
+Leveraging a very powerful force when they are connected together.
 
 <img width="1200" height="300" alt="Surprise metric" src="https://github.com/user-attachments/assets/f1254b6f-25a1-49ff-ad5a-3ee0f2b62189" />
 
 > _(Image depicts what a normal surprise metric graph would look like. Despite how it may appear, even starting at the upper left corner, the actual values of where her Surprise begins is actually low. Her average Surprise would idle near 0.3.)_
 
 
-# EMERGENT BEHAVIORS
+## TESTING CONCEPT: “FINAL EXAM”
 
-EMBR, much like everything else on this planet, is entitled to privacy. I do not have an entire log of every decision EMBR makes and why. Approaching her design with the intention of creating a true emergent intelligence, I opted for only concerning myself with the foundation of which her decisions are made. I couldn't imagine trying to justify 1 billion decisions, nor could I imagine having to read the log of 1 billion justifications. It's my philosophy that to allow an entity to learn, it must learn from mistakes, just as much as anything else does. 
+This experiment's subject: A single Unit. 
 
-This is why I invented the Surprise Metric. It was the best middle-ground, the “result” of her thinking rather than the thinking itself. 
-As such, I can only report to you the results of her decisions. I can confirm that they were made on stable reasoning or I can report that they weren’t. I have seen consistency across all these experiments and I know what her “reasonable” reasoning looks like. 
+Test Purpose: To observer if she truly could adapt
 
-Despite EMBR’s Opaque reasoning, the results of every experiment speak for themselves, and for her ability to remain honest. I’ve learned that even if an entire category is overwhelming one way (Consider the test problems we used to get in school. A question with multiple parts.) She will label each individual component instead of attribute the entire category to a category.
+Method: Remove the traits assigned to the data (charge, vectorization, etc.) so that EMBR is exposed to data unlike anything she has previously seen. 
 
-When groups of EMBR Units are thrown into an environment to combine, they form a configuration that I’ve been calling a Lattice. More than once, this version of EMBR has faced unique hurdles (that were not coded) and created unique solutions (that were not coded).
-
-<img width="1200" height="700" alt="PYRAMID" src="https://github.com/user-attachments/assets/e4a4c5d3-1419-4e42-89d3-dda60784e18d" />
-_(Image depicts: As cycle number increases, the number of Units in an environment increased until they began combining, meaning a decrease in "Fragments" (little clusters of units). This map directly shows the path the Lattice took in forming. This is not a representative graph, this is a legit logging of said lattice.}_
+Reasoning: I realized that she still existed in a box. A pre-defined environment, much like the datasets that train AI models. 
 
 
-## EMERGENT BEHAVIORS: LATTICE
-
-Here are some honorable mentions.
-***(NOTE: If you're interested in learning more, please visit the EMBR website. Link is attached to my profile and will be pasted near the bottom.)***
-
-***A negative Lattice*** 
-This directly went against the physics of her environment where the goal is to actively move towards a lower energy state. The Negative Lattice proved to be the “dominant” entity in this environment, even much bigger Lattice’s giving up their form to combine with this one. It stayed negative the entire time. It never moved from it’s spot and it's physical shape stayed one size despite it's absorption of all other units. It’s possible this Lattice opted for density as opposed to size - a behavior I did not expect. 
-
-***The “Negotiation”*** - Two dominant lattices focused more on each other than the straggling individual charged Units near them. They began to warp their physical shapes and very slowly combine. 
-I hypothesize that the two systems, though as neutral in charge as possible (comprised of negative and positive Units), opted for strength. If I had to explain this theory more concretely, it’s similar to the Negative Lattice. Straggler charged Units are immediate, easy gains. To reconfigure and merge with another Lattice, though more upfront in cost, has more substantial long-term benefits. 
-_It was a strategy._ The reconfiguration phase of this event was, by itself, an emergent behavior. However, to minimize (+/-) reactions, both Lattice’s began to rearrange their units so as to merge seamlessly. This was a promising result, depicting a potential pre-cursor to more advanced types of cognition. 
+ This is the data that EMBR was  interpreting and refining up until this experiment. She finds relationships in messy waves of these atoms. 
+ Below is attached picture displaying what a usual wave would look like, she would process nine waves at a time, coming from different locations at different intervals.
 
 
-## EMERGENT BEHAVIORS: “FINAL EXAM”
+<img width="1000" height="300" alt="Wave_9stream" src="https://github.com/user-attachments/assets/3f0c9254-34f1-4026-ace6-155bfc79640d" />
 
-This experiment's subject was a single Unit. 
-It was a test meant to ensure she truly could adapt, so I opted to take away the one thing I thought she needed when it came to understanding the environment and forming connections. 
-I realized that she still existed in a box. A pre-defined environment, much like the datasets that train AI models. Though her element was “charge”. The “charge” of information - specifically, the charge of holistic atoms.
-
-       ___   ______
- ---- [---NOTE----]---
- A **holistic atom** is a dictionary of information that is assigned a    positive or negative charge. This is the data that EMBR was  interpreting and refining up until this experiment. She finds relationships in messy waves of these atoms. Below is attached picture displaying what a usual wave would look like, she would process|| ||nine waves at a time, coming from different locations at different intervals.
- '''''''''''''''
-
-
-<img width="1500" height="700" alt="Wave_9stream" src="https://github.com/user-attachments/assets/3f0c9254-34f1-4026-ace6-155bfc79640d" />
-
-The removal of “charge” and the removal of clean, understood, numbers would truly be a demonstration of if EMBR is capable of doing what I wanted her to do. Be thrown into a truly random environment and adapt. I gave her a language she had never seen before: Letters. She didn’t break. From the results, I could tell it was surprising and the letters themselves were a hurdle, but I also could tell that she was processing them. She achieved a state of near-perfect confidence and her surprise directly correlated to the use of new letters.
+The removal of “charge” and the removal of clean, understood, numbers would be a true demonstration of EMBR's capability in processing unstructured data. 
+Her purpose: To be thrown into a truly random environment and adapt. To test this, I gave her a language she had never seen before: Letters. She didn’t break. From the results, I could tell it was surprising and the letters themselves were a hurdle, but I also could tell that she was processing them. She achieved a state of near-perfect confidence and her surprise directly correlated to the use of new letters.
 
 This result matters. 
 
@@ -138,12 +133,11 @@ archealogical research |comparing artifacts to find patterns or differences| Phy
 Where current AI struggles is personalizing information for specific cases. It is often a frustration for patients, particularly those in the minority, to be dismissed because their personal experiences are compared to a "one-size-fits-all" average. This average is often what AI are trained on. EMBR suffers no such draw-back. Her strength lies in a potential longitudinal observance to a patient's condition. Especially if a chronic ailment is the concern, EMBR can monitor their heart rate or be fed data taken over a course of time and can flag any differences, anomalies or potential concerns. She doesn't compare a patient to an average. With this, she directly promotes personalized medicine. 
 
 # THANKS FOR READING! 
-The general overview of the project doesn't do justice to EMBR, the Lattice, or the subsequent emergent features. 
-I encourage you to check out the website where I have full-documentation, some cool content creation, even cooler videos and knock-your-socks-off pictures that give this project it's just desserts.
+The general overview of the project is only a portion of the important features and prospects. I hope you'll also check out the WIKI which I am currently updating. Until then, 
+I encourage you to check out the website where I have a more recent and full-documentation, some cool content creation, even cooler videos and knock-your-socks-off pictures that give this project a more well-rounded lens for you to view it from. I appreciate you taking the time to learn about EMBR, and I look forward to posting future updates. 
 
 
 <img width="627" height="636" alt="AT_REST_Lattice experiment1 png3444" src="https://github.com/user-attachments/assets/5aa6a4f3-75c3-425e-a8df-032e82988899" />
-
 
 
 ## WEBSITE 
@@ -158,9 +152,5 @@ I intend to continue experimenting and testing EMBR's true potential.
 ***BUT HER MAIN SOURCE CODE IS NOT OPEN-SOURCE***
 I will be including various scripts that highlight or demonstrate the methods used in her tests, there will also be updates coming to the website that serve the same purpose.
 
-If you're interested in utilizing EMBR for a specific use-case, 
-
-or have an inquiry for a long-term task/research arrangement, 
-
-please reach out to me via work email: 
+Please reach out to me via work email if you have any questions or inquiries: 
 WORK EMAIL: EMBR-AI@PROTON.ME
