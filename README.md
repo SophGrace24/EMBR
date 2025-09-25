@@ -1,4 +1,9 @@
 # EMBR
+
+-------------------------
+[NOTE] IT IS IMPORTANT THAT YOU CHECK OUT ***THE IZO METHOD*** REPOSITORY. 
+
+----------------------
 EMBR is a new approach to Artificial Intelligence. She is an honest attempt at confronting the problems plaguing AI today, or at the very least, a potential guiding framework to expand the ways in which machines learn. She is a robust perceptron that can exist as an individual agent to interpret the environment, or she can connect to other EMBR Units and display profound understandings. More on that specific detail, later.
 
 <img width="801" height="245" alt="Units Learning Together" src="https://github.com/user-attachments/assets/97c73cd7-ab40-46a9-bc88-73ee5c9c7ee2" />
@@ -6,7 +11,7 @@ EMBR is a new approach to Artificial Intelligence. She is an honest attempt at c
 >_(Image is of (5) EMBR Units, connected together in a straight line. These Units were interpreting the same data through a pipeline, Unit 0 receiving the data which is passed to Unit 1, then Unit 2 and so on. The variations are evidence of EMBR successfully refining the data into a "smoother" state. Near the right side of the graph, when the data stops, Unit 0 depicts a quick drop in surprise now that the environment is silent but the other Units jump in surprise because Unit 0 is no longer funneling in data.)_
 
 
-<h1> <strong> CONVENTIONAL AI </strong></h1>
+***conventional AI***
 
 Artificial Intelligence is meant to emulate real intelligence. The ability to learn on its own, form novel connections, understand nuance or at least, adapt in some way to it. The ability to adapt to an unpredictable environment is what has determined survival. Life is messy. Nature is cruel. Humans have thousands of years of evolutionary instinct to support our understanding of the world. It’s not a criticism to address that how we structured AI is not a genuine reflection of a cognition truly capable of learning.
 </text>
